@@ -1,0 +1,2 @@
+#!/bin/bash
+curl -d "grant_type=client_credentials&client_id=FyyP6jpYWtduWa39u2mAK9wbsUDbGGC9&client_secret=0DD1pGvly3KKnUPo" -H "Content-Type: application/x-www-form-urlencoded" -X POST https://test.api.amadeus.com/v1/security/oauth2/token

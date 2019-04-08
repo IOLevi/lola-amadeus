@@ -1,0 +1,11 @@
+{
+    "type": "amadeusOAuth2Token",
+    "username": "esznol1@gmail.com",
+    "application_name": "lola-interview",
+    "client_id": "FyyP6jpYWtduWa39u2mAK9wbsUDbGGC9",
+    "token_type": "Bearer",
+    "access_token": "MoSCycSiClHJQ0lEVdSgNX066ik5",
+    "expires_in": 1799,
+    "state": "approved",
+    "scope": ""
+}
